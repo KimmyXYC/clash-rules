@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN,apm-misaka.biliapi.net
+  - DOMAIN,p-bstarstatic.akamaized.net
+  - DOMAIN-SUFFIX,bstarstatic.com
+  - DOMAIN-SUFFIX,balaboom.com
+  - DOMAIN,apm-misaka.biliapi.net
+  - DOMAIN,upos-bstar-mirrorakam.akamaized.net
+  - DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+  - DOMAIN,s-bstarstatic.akamaized.net
+  - DOMAIN,apm-misaka.biliapi.net
+  - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,biliintl.com
+  - PROCESS-NAME,com.bstar.intl
+  - DOMAIN,api.global.bilibili.com
+  - DOMAIN,app.global.bilibili.com
+  - DOMAIN,apm-misaka.biliapi.net
+  - DOMAIN-KEYWORD,bstar
